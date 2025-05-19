@@ -4,7 +4,7 @@
 
 // --- Configuration Wi-Fi ---
 const char* ssid          = "Orange_wifi_B6F9";
-const char* password      = "h2ht8BqRdbL";
+const char* password      = "";
 
 // --- Configuration MQTT ThingsBoard ---
 const char* mqtt_server   = "mqtt.thingsboard.cloud";
